@@ -36,6 +36,10 @@ AWS Athena is utilized to query the data stored in the AWS Glue Data Catalog. Wi
 * **_Positive Correlation:_** Our analysis reveals a positive correlation between the number of bedrooms, bathrooms, and rent prices. As property size increases, rent prices also tend to rise.
 * **_Affordability Perspective:_** It is important to note that while the dataset shows higher rent prices and property sizes, this might not represent the reality for the majority of Kenyans. A significant portion of the population lives on about 100 KES per day, highlighting an affordability gap.
 
+**Implications:**
+* The platform may be catering primarily to an affluent segment, limiting appeal to a broader audience.
+* The dataset may be skewed towards higher-end neighborhoods, potentially overlooking affordable housing segments.
+
 **Recommendations for BuyRentKenya:**
 * **_Diversify Property Listings:_** To be more inclusive, consider featuring a diverse range of property listings, including more affordable housing options from different locations.
 * **_Geographical Spread:_** Ensure property listings cover a wide range of locations, catering to diverse housing needs.
