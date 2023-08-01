@@ -25,7 +25,7 @@ The AWS Glue Data Catalog stores the inferred data schema and metadata. It provi
 AWS Athena is utilized to query the data stored in the AWS Glue Data Catalog. With Athena's SQL-based querying capability, you can easily analyze and explore the data.
 
 7. ### Data Visualization
- To provide a comprehensive view of the rental property market in Kenya, I created an interactive Power BI dashboard based on the analyzed data. The dashboard allows users to explore and gain deeper insights into key aspects of the rental market.
+ To provide a comprehensive view of the rental property listed on the website, I created an interactive Power BI dashboard based on the analyzed data. The dashboard allows users to explore and gain deeper insights into key aspects of the rental market.
  
 ![Property Viz](https://github.com/MuthoniGathu/rent-end-to-end-data-pipeline/assets/32902183/6fe3a1b4-a2b8-473a-82e8-fe2ba673c82f)
 
